@@ -1,2 +1,2 @@
-P2P and gRPC plugin for Go
+P2P plugin for gRPC
 ---
